@@ -1,0 +1,21 @@
+
+{
+  "pump_threshold": 100,
+  "rug_threshold": -90,
+  "min_liquidity": 1000,
+  "min_volume": 5000,
+  "blacklisted_coins": [],
+  "blacklisted_devs": [],
+  "chains": ["ethereum", "bsc", "polygon"],
+  "pocket_universe_api_key": "your_pocket_universe_key",
+  "rugcheck_api_key": "https://api.rugcheck.xyz/swagger/index.html#/Tokens/post_tokens_verify",
+  "telegram_bot_token": "7563568172:AAH-PzROiTqjOJVRiNpMiJuAWZBzl1cpgvk",
+  "telegram_chat_id": "281236949",
+  "toxi_sol_api_key": "74X2Bp6uUjTQgAe6LwbFATFMpXMBtbfNm8U1JQGpQyMu",
+  "fake_volume_threshold": 5,
+  "selected_tokens": [],
+  "db_host": "localhost",
+  "db_name": "dexbot",
+  "db_user": "dexbot_user",
+  "db_password": "Smart123"
+}
